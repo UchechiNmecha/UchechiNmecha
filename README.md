@@ -1,22 +1,27 @@
-<div id="introduction" align="center"><h1>hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0.5px"/> my name is Uchechi</h1></div>
+<div id="introduction" align="center">
+  
+### Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> my name is Uchechi
 
+</div>
+
+---
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/FlJbvchalNGPH6M43X/giphy.gif?cid=6c09b95215a8ae11bac2fe8c3a977e45f6010481b1335d1d&rid=giphy.gif&ct=ts" width="200"/>
+  <img src="https://media4.giphy.com/media/OYwYE7UtTTqLBfpBS8/giphy.gif?cid=82a1493bymeq2167ffu1vr6k3h90g49clckd3kd06wd0ylwl&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/uchechi-nmecha-15743421b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/uchechi.nmecha">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.facebook.com/uchechi.nmecha.35">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/NmechaUchechi?t=CJtVFeR4M8KooTDlojHUhg&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -26,18 +31,40 @@
 </div>
 
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=6c09b9528b39b4d5825ad7f63e3efbe08e4e0c5ee943e2c3&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 
-<!--
-**UchechiNmecha/UchechiNmecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: About Me :
+
+There is only one me!!
+
+- :book: I’m currently studying 
+
+- :compass: Exploring the tech world.
+
+- :zap: I love to read, write, design, and code🤪
+
+- :mailbox: Reach me: [![Linkedin Badge](https://img.shields.io/badge/-UchechiNmecha-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
+---
+
+### :hammer_and_wrench: Languages:
+
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/FlJbvchalNGPH6M43X/giphy.gif?cid=6c09b95215a8ae11bac2fe8c3a977e45f6010481b1335d1d&rid=giphy.gif&ct=ts" width="200"/>
+</div>
+
+
+<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+</div>
+
+---
+
