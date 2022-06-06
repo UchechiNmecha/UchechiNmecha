@@ -48,7 +48,7 @@ There is only one me!!
 
 - :zap: I love to read, write, design, and code🤪
 
-- :mailbox: Reach me: [![Linkedin Badge](https://img.shields.io/badge/-UchechiNmecha-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: Reach me: [![Linkedin Badge](https://img.shields.io/badge/-UchechiNmecha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uchechi-nmecha-15743421b)
 
 
 ---
