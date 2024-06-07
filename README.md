@@ -32,31 +32,12 @@
 
 ---
 
-### :man_technologist: About Me :
-
-There is only one me!!
-
-- :book: I’m currently studying 
-
-- :compass: Exploring the tech world.
-
-- :zap: I love to read, write, design, and code🤪
-
 - :mailbox: Reach me: [![Linkedin Badge](https://img.shields.io/badge/-UchechiNmecha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uchechi-nmecha-15743421b)
 
 
 ---
 
 ### :hammer_and_wrench: Languages:
-
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/FlJbvchalNGPH6M43X/giphy.gif?cid=6c09b95215a8ae11bac2fe8c3a977e45f6010481b1335d1d&rid=giphy.gif&ct=ts" width="200"/>
-</div>
-
-
-<div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
 </div>
 
