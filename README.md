@@ -13,12 +13,6 @@ React • Next.js • React Query • Zustand • Tailwind CSS • Node.js • E
 **Tools & Platforms**  
 Git • Vercel • Supabase • Firebase • Figma
 
-## Professional Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UchechiNmecha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UchechiNmecha&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=UchechiNmecha&theme=tokyonight&hide_border=true&border_radius=10)
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/yourprofile) 
