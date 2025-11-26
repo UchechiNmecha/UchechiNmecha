@@ -1,4 +1,4 @@
-**Frontend Engineer • Product Builder**
+## Frontend Engineer • Product Builder
 
 Crafting high-performance, scalable web experiences.
 
