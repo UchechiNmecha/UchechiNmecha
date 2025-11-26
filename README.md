@@ -1,5 +1,3 @@
-# [Nmecha Uchechi]
-
 **Frontend Engineer • Product Builder**
 
 Crafting high-performance, scalable web experiences.
@@ -24,8 +22,7 @@ Git • Vercel • Supabase • Firebase • Figma
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/yourprofile) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit- success?style=flat-square)](https://yourportfolio.com) 
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square)](mailto:your.email@domain.com) 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square)](mailto:nmechauchechiokorie@gmail.com.com) 
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=flat-square)](https://x.com/NmechaUchechi)
 
-Always open to interesting opportunities and conversations about systems, product, or AI.
+
